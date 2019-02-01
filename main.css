@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    width: 800px;
+    background-color: #ccc;
+}
+.ex{
+    height: 100px;
+    width: 200px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
